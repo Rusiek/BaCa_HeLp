@@ -16,6 +16,6 @@ Przykładowo, aby sprawdzić tożsamość wyjścia programu o nazwie "BaCa_B.exe
   ./Testerka.sh BaCa_temp.exe test
   
 Przykładowe pliki testowe:
-  Zadanie programu: Wypisać wszystkie liczby pierwsze od n-tej najmniejszej do m-tej największej włącznie posortowane rosnąco.
-  Plik wejściowy: 3 7
-  Plik wyjściowy: 5 7 11 13 17
+Zadanie programu: Wypisać wszystkie liczby pierwsze od n-tej najmniejszej do m-tej największej włącznie posortowane rosnąco.
+Plik wejściowy: 3 7
+Plik wyjściowy: 5 7 11 13 17
