@@ -5,12 +5,12 @@ Pliki z rozszerzeniem .py zawierają programy napisane w języku Python, które 
 Wszystkie testy zawierają jedną sesję.
 
 Katalog S zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 10>. Każdy test zawiera dokładnie jedną operację S.
-Czas testowania: 2-10 min.
+Czas testowania: 5-10 min.
 
 Katalog R zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 10>. Każdy test zawiera dokładnie jedną operację R.
-Czas testowania: 2-10 min.
+Czas testowania: 5-10 min.
 
 Katalog C zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 10>. Każdy test zawiera dokładnie jedną operację C.
-Czas testowania: 2-10 min.
+Czas testowania: 5-10 min.
 
-Katalog A zawiera 20 testów. Długość tablicy to liczba z przedziału <100k, 150k> Każdy test zawiera od 50 do 100 dowolnych operacji. Czas testowania: 15 - ??? sec.
+Katalog A zawiera 20 testów. Długość tablicy to liczba z przedziału <100k, 150k> Każdy test zawiera od 50 do 100 dowolnych operacji. Czas testowania: 25 - ??? sec.
