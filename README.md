@@ -1,3 +1,6 @@
+# MakeTest
+Pliki z rozszerzeniem .py zawierają programy napisane w języku Python, które można wykorzystać do automatycznego tworzenia własnych testów. Pierwsze trzy litery oznaczają do jakiego zadania odnoszą się dane pliki. Następnie wystarczy włączyć program o nazwie ...Make_Test.py, które chcemy wygenerować. Parametry można łatwo ustawić samemu zmieniając poszczególne zmienne w programie ...Make_Test.py. Do poprawnego działania programów konieczne jest pobranie wszystkich plików z nazwami o identycznych trójliterowych sufiksach. 
+
 # Operacje tablicowe(OPT)
 Wszystkie testy zawierają jedną sesję.
 
