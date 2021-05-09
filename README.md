@@ -7,7 +7,7 @@ Możliwa ścieżka dostępu do plików dla Ubuntu zainstalowanego na Windowsie z
   C:/Users/{User_Name}/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc/LocalState/rootfs/home/...
   
 Przykładowa komenda nadania uprawnień wszystkim plikom testowym:
-  chmod -R 711 {nazwa katalogu z testami}
+  chmod -R 777 {nazwa katalogu z testami}
   
 Komenda wywołania skryptu:
   ./Testerka.sh {Program} {Nazwa katalogu z testami}
