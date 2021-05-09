@@ -1,4 +1,4 @@
-# Operacje tablicowe
+# Operacje tablicowe(OPT)
 Wszystkie testy zawierają jedną sesję.
 
 Katalog S zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 10>. Każdy test zawiera dokładnie jedną operację S.
