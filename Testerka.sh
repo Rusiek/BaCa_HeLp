@@ -1,6 +1,5 @@
 for file in $2/*.in; do
 start=`date +%s%N`
-echo $q
 test=${file%.in}.out
 diff -bsq $test <(./$1 < $file) || break
 end=`date +%s%N`
