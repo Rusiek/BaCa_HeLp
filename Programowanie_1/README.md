@@ -13,4 +13,4 @@ Czas testowania: 5-10 min.
 Katalog C zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 10>. Każdy test zawiera dokładnie jedną operację C.
 Czas testowania: 5-10 min.
 
-Katalog A zawiera 10 testów. Długość tablicy to liczba z przedziału <100k, 150k> Każdy test zawiera od 5 do 10 dowolnych operacji. Czas testowania: 10 - ??? sec.
+Katalog A zawiera 10 testów. Długość tablicy to liczba z przedziału <100k, 150k> Każdy test zawiera od 5 do 10 dowolnych operacji. Czas testowania: 10 sec - 30 minut
