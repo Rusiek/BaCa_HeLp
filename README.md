@@ -12,10 +12,10 @@ Przykładowa komenda nadania uprawnień wszystkim plikom testowym:
 Komenda wywołania skryptu:
   ./Testerka.sh {Program} {Nazwa katalogu z testami}
   
-Przykładowo, aby sprawdzić tożsamość wyjścia programu o nazwie "BaCa_B.exe" z plikami w katalogu o nazwie "test" należy wpisać komendę:
+Przykładowo, aby sprawdzić zgodność wyjścia programu o nazwie "BaCa_B.exe" z plikami w katalogu o nazwie "test" należy wpisać komendę:
   ./Testerka.sh BaCa_temp.exe test
   
-# Przykładowe pliki testowe:
+# Przykładowe pliki testowe
 
 Zadanie programu: Wypisać wszystkie liczby pierwsze od n-tej najmniejszej do m-tej największej włącznie posortowane rosnąco.
 
