@@ -9,11 +9,14 @@ Możliwa ścieżka dostępu do plików dla Ubuntu zainstalowanego na Windowsie z
 Przykładowa komenda nadania uprawnień wszystkim plikom testowym:
   chmod -R 777 {nazwa katalogu z testami}
   
-Komenda wywołania skryptu:
-  ./Testerka.sh {Program} {Nazwa katalogu z testami}
+Komenda wywołania skryptu (Linux):
+  Testerka.sh {Program} {Nazwa katalogu z testami}
+  
+Komenda wywołania skryptu (Windows):
+  bash Testerka.sh {Program} {Nazwa katalogu z testami}
   
 Przykładowo, aby sprawdzić zgodność wyjścia programu o nazwie "BaCa_B.exe" z plikami w katalogu o nazwie "test" należy wpisać komendę:
-  ./Testerka.sh BaCa_temp.exe test
+  Testerka.sh BaCa_temp.exe test
   
 # Przykładowe pliki testowe
 
