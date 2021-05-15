@@ -14,3 +14,8 @@ Katalog C zawiera 1000 testów. Długość tablicy to liczba z przedziału <1, 1
 Czas testowania: 5-10 min.
 
 Katalog A zawiera 10 testów. Długość tablicy to liczba z przedziału <100k, 150k> Każdy test zawiera od 5 do 10 dowolnych operacji. Czas testowania: 10 sec - 15 minut
+
+# (PPZ) Podprogramy Zbiorowe
+Aby sprawdzić to zadanie, należy pobrać pliki PPZ.cpp, PPZ.h, umieścić je w jednym folderze, wkleić kod do wyznaczonego miejsca w PPZ.h i następnie utworzyć plik PPZ.exe, który należy sprawdzać
+
+Katalogi zawierają po losowych 1000 testów i sprawdzają dokładnie tę funkcję, jaką nazwę ma katalog.
