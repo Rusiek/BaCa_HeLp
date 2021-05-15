@@ -17,6 +17,9 @@ Komenda wywołania skryptu (Windows):
   
 Przykładowo, aby sprawdzić zgodność wyjścia programu o nazwie "BaCa_B.exe" z plikami w katalogu o nazwie "test" należy wpisać komendę:
   Testerka.sh BaCa_temp.exe test
+
+Tworzenie pliku exe w CLion:
+  https://plugins.jetbrains.com/plugin/8352-c-c--single-file-execution
   
 # Przykładowe pliki testowe
 
