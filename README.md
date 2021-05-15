@@ -20,6 +20,7 @@ Przykładowo, aby sprawdzić zgodność wyjścia programu o nazwie "BaCa_B.exe" 
 
 Tworzenie pliku exe w CLion:
   https://plugins.jetbrains.com/plugin/8352-c-c--single-file-execution
+
 Należy również dodać poniższą linijkę do pliku "CMakeLists.txt":
   set(CMAKE_EXE_LINKER_FLAGS "-static") 
   
