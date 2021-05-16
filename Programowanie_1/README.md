@@ -19,7 +19,7 @@ Katalog A zawiera 10 testów. Długość tablicy to liczba z przedziału <100k, 
 Aby sprawdzić to zadanie, należy pobrać pliki PPZ.cpp, PPZ.h, umieścić je w jednym folderze, wkleić kod do wyznaczonego miejsca w PPZ.h i następnie utworzyć plik PPZ.exe, który należy sprawdzać
 
 Katalogi zawierają po losowych 1000 testów i sprawdzają dokładnie tę funkcję, jaką nazwę ma katalog.
-Czas testowania każdego katalogu: 1-2 min.
+Czas testowania każdego katalogu: 1-3 min.
 
 Add: W pierwszej linii program wypisuje liczbę, którą będziemy dodawać, w drugiej linii zostaje wypisany zbiór po ewentualnym dodaniu nowej liczby.
 
