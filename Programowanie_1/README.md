@@ -21,7 +21,7 @@ Aby sprawdzić to zadanie, należy pobrać pliki PPZ.cpp, PPZ.h, umieścić je w
 Katalogi zawierają po losowych 1000 testów i sprawdzają dokładnie tę funkcję, jaką nazwę ma katalog.
 Czas testowania każdego katalogu: 1-2 min.
 
-Add: W pierwszej linii program wypisuje liczbę, którą będziemy.
+Add: W pierwszej linii program wypisuje liczbę, którą będziemy dodawać, w drugiej linii zostaje wypisany zbiór po ewentualnym dodaniu nowej liczby.
 
 Create: W pierwszej linii program wypisuje tablicę, z której ma być tworzony zbiór, w drugiej linii wypisuje zbiór utworzony z podanej wcześniej tablicy.
 
