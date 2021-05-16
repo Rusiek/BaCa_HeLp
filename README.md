@@ -22,7 +22,9 @@ Tworzenie pliku exe w CLion:
   https://plugins.jetbrains.com/plugin/8352-c-c--single-file-execution
 
 Należy również dodać poniższą linijkę do pliku "CMakeLists.txt":
-  set(CMAKE_EXE_LINKER_FLAGS "-static") 
+  set(CMAKE_EXE_LINKER_FLAGS "-static")
+  
+Poprawna instalacja kompilatora w Code::Blocks: https://cpp0x.pl/kursy/FAQ/Program-nie-uruchamia-sie-z-exe-brak-libgcc_s_dw2-1-dll-libstdc++-6-dll/584
   
 # Przykładowe pliki testowe
 
