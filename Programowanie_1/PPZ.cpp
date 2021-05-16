@@ -17,6 +17,7 @@ int main(){
                 break;
         }
         std::cin>>m;
+        std::cout<<m<<"\n";
         Add(m, A);
         x=0;
         while(*(A+x) != -1)
@@ -162,7 +163,49 @@ int main(){
             std::cout<<*(B+x++)<<" ";
         std::cout<<*(B+x)<<"\n";
     }//Complement
-    /*H, I: Subset, Equal*/
+    else if (q=='H'){
+        int x=0;
+        while(true){
+            std::cin>>*(A+x);
+            if (*(A+x++)==-1)
+                break;
+        }
+        x=0;
+        while(true){
+            std::cin>>*(B+x);
+            if (*(B+x++)==-1)
+                break;
+        }
+        std::cout<<Subset(A, B)<<"\n";
+        x=0;
+        for (int i=0; i<=size(A); ++i)
+            std::cout<<*(A+i)<<" ";
+        std::cout<<"\n";
+        for (int i=0; i<=size(B); ++i)
+            std::cout<<*(B+i)<<" ";
+    }//Subset
+    else if (q=='I'){
+        int x=0;
+        while(true){
+            std::cin>>*(A+x);
+            if (*(A+x++)==-1)
+                break;
+        }
+        x=0;
+        while(true){
+            std::cin>>*(B+x);
+            if (*(B+x++)==-1)
+                break;
+        }
+        int y = Equal(A, B);
+        x=0;
+        for (int i=0; i<=size(A); ++i)
+            std::cout<<*(A+i)<<" ";
+        std::cout<<"\n";
+        for (int i=0; i<=size(B); ++i)
+            std::cout<<*(B+i)<<" ";
+        std::cout<<"\n"<<y;
+    }//Equal
     else if (q=='J'){
         int x=0;
         while(true){
