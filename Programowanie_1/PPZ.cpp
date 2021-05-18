@@ -1,6 +1,13 @@
 #include <iostream>
 #include "PPZ.h"
 
+int size(int *A){
+    int i=0;
+    while(*(A+i) != -1)
+        ++i;
+    return i;
+}
+
 char q, D[100];
 int n, m;
 int mini, maxi, card;
@@ -202,7 +209,7 @@ int main(){
         for (int i=0; i<=size(A); ++i)
             std::cout<<*(A+i)<<" ";
         std::cout<<"\n";
-        for (int i=0; i<=size(B); ++i)
+        for (int i=0; *(B+i) != -1; ++i)
             std::cout<<*(B+i)<<" ";
         std::cout<<"\n"<<y;
     }//Equal
@@ -323,6 +330,6 @@ int main(){
             std::cout<<*(A+x++)<<" ";
         std::cout<<*(A+x)<<"\n";
         std::cout<<a<<" "<<h<<" "<<mini<<" "<<maxi<<" "<<card;
-    }//Properties
+    }//Properties*/
     /*...*/
 }
